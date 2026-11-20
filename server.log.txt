@@ -1,0 +1,5 @@
+2026-11-10 10:00:01 | INFO | User logged in
+2026-11-10 10:00:05 | ERROR | Database connection failed
+2026-11-10 10:00:10 | INFO | Page loaded
+2026-11-10 10:00:15 | WARNING | Disk space low
+2026-11-10 10:00:20 | ERROR | Timeout
